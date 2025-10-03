@@ -21,21 +21,44 @@
       "name": "Admin"
     }
   ],
-
   "days": [
     {
       "id": 101,
       "date": "3/10/2025",
       "userId": 1,
       "notes": [
-        { "diary_promptsId": 1, "note": "Feeling good!" },
-        { "diary_promptsId": 2, "note": "feels light and energetic" },
-        { "diary_promptsId": 3, "note": "I ran for 30 mins" },
-        { "diary_promptsId": 4, "note": "katas from Ironhack" },
-        { "diary_promptsId": 5, "note": "time with my daughter, Sam and Kuku" },
-        { "diary_promptsId": 6, "note": "made me happy and grateful" },
-        { "diary_promptsId": 7, "note": "for running" },
-        { "diary_promptsId": 8, "note": "nothing to add" }
+        {
+          "diary_promptsId": 1,
+          "note": "Feeling good!"
+        },
+        {
+          "diary_promptsId": 2,
+          "note": "feels light and energetic"
+        },
+        {
+          "diary_promptsId": 3,
+          "note": "I ran for 30 mins"
+        },
+        {
+          "diary_promptsId": 4,
+          "note": "katas from Ironhack"
+        },
+        {
+          "diary_promptsId": 5,
+          "note": "time with my daughter, Sam and Kuku"
+        },
+        {
+          "diary_promptsId": 6,
+          "note": "made me happy and grateful"
+        },
+        {
+          "diary_promptsId": 7,
+          "note": "for running"
+        },
+        {
+          "diary_promptsId": 8,
+          "note": "nothing to add"
+        }
       ]
     },
     {
@@ -43,14 +66,38 @@
       "date": "3/10/2025",
       "userId": 2,
       "notes": [
-        { "diary_promptsId": 1, "note": "Feeling ok!" },
-        { "diary_promptsId": 2, "note": "feels light and energetic" },
-        { "diary_promptsId": 3, "note": "I ran for 30 mins" },
-        { "diary_promptsId": 4, "note": "katas from Ironhack" },
-        { "diary_promptsId": 5, "note": "time with my daughter, Sam and Kuku" },
-        { "diary_promptsId": 6, "note": "made me happy and grateful" },
-        { "diary_promptsId": 7, "note": "for running" },
-        { "diary_promptsId": 8, "note": "nothing to add" }
+        {
+          "diary_promptsId": 1,
+          "note": "Feeling ok!"
+        },
+        {
+          "diary_promptsId": 2,
+          "note": "feels light and energetic"
+        },
+        {
+          "diary_promptsId": 3,
+          "note": "I ran for 30 mins"
+        },
+        {
+          "diary_promptsId": 4,
+          "note": "katas from Ironhack"
+        },
+        {
+          "diary_promptsId": 5,
+          "note": "time with my daughter, Sam and Kuku"
+        },
+        {
+          "diary_promptsId": 6,
+          "note": "made me happy and grateful"
+        },
+        {
+          "diary_promptsId": 7,
+          "note": "for running"
+        },
+        {
+          "diary_promptsId": 8,
+          "note": "nothing to add"
+        }
       ]
     },
     {
@@ -58,7 +105,10 @@
       "date": "4/10/2025",
       "userId": 2,
       "notes": [
-        { "diary_promptsId": 1, "note": "Feeling proud but tired!" },
+        {
+          "diary_promptsId": 1,
+          "note": "Feeling proud but tired!"
+        },
         {
           "diary_promptsId": 2,
           "note": "little muscle pain and stiffness in my hamstrings"
@@ -67,29 +117,61 @@
           "diary_promptsId": 3,
           "note": "was sitting at the computer for 9 hours"
         },
-        { "diary_promptsId": 4, "note": "remembering to go for a lunch break" },
-        { "diary_promptsId": 5, "note": "eating my favorite go to breakfast" },
+        {
+          "diary_promptsId": 4,
+          "note": "remembering to go for a lunch break"
+        },
+        {
+          "diary_promptsId": 5,
+          "note": "eating my favorite go to breakfast"
+        },
         {
           "diary_promptsId": 6,
           "note": "brings me contentment and nourishing each of my cells"
         },
-        { "diary_promptsId": 7, "note": "for giving a space for myself" },
-        { "diary_promptsId": 8, "note": "today was a great day! love it" }
+        {
+          "diary_promptsId": 7,
+          "note": "for giving a space for myself"
+        },
+        {
+          "diary_promptsId": 8,
+          "note": "today was a great day! love it"
+        }
       ]
     }
   ],
-
   "diary-prompts": [
-    { "id": 1, "title": "How am I feeling right now?" },
-    { "id": 2, "title": "How does my body feel?" },
+    {
+      "id": 1,
+      "title": "How am I feeling right now?"
+    },
+    {
+      "id": 2,
+      "title": "How does my body feel?"
+    },
     {
       "id": 3,
       "title": "What might have shaped these feelings today? "
     },
-    { "id": 4, "title": "What was the toughest part of my day?" },
-    { "id": 5, "title": "What was the best moment of my day?" },
-    { "id": 6, "title": "How did that moment make me feel?" },
-    { "id": 7, "title": "What can I thank myself for today?" },
-    { "id": 8, "title": "Any extra thoughts I want to note?" }
+    {
+      "id": 4,
+      "title": "What was the toughest part of my day?"
+    },
+    {
+      "id": 5,
+      "title": "What was the best moment of my day?"
+    },
+    {
+      "id": 6,
+      "title": "How did that moment make me feel?"
+    },
+    {
+      "id": 7,
+      "title": "What can I thank myself for today?"
+    },
+    {
+      "id": 8,
+      "title": "Any extra thoughts I want to note?"
+    }
   ]
 }
