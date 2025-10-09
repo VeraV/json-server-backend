@@ -3,14 +3,14 @@
     {
       "id": 1,
       "name": "Sam",
-      "email": "alice@example.com",
+      "email": "sam@example.com",
       "isAdmin": false,
       "daysIds": [101, 102, 103, 104, 105, 106]
     },
     {
       "id": 2,
       "name": "Kuku",
-      "email": "ben@example.com",
+      "email": "kuku@example.com",
       "isAdmin": false,
       "daysIds": [201, 202, 203, 204, 205, 206]
     },
