@@ -2,22 +2,22 @@
   "users": [
     {
       "id": 1,
-      "name": "Ragnar",
-      "email": "Ragnar@example.com",
+      "name": "Sam",
+      "email": "alice@example.com",
       "isAdmin": false,
       "daysIds": [101, 102, 103, 104, 105, 106]
     },
     {
       "id": 2,
       "name": "Kuku",
-      "email": "Kuku@example.com",
+      "email": "ben@example.com",
       "isAdmin": false,
       "daysIds": [201, 202, 203, 204, 205, 206]
     },
     {
       "id": 3,
-      "name": "Sam",
-      "email": "Sam@example.com",
+      "name": "Ragnar",
+      "email": "admin@example.com",
       "isAdmin": true
     }
   ],
@@ -50,7 +50,8 @@
           "diary_promptsId": 8,
           "note": "Looking forward to the weekend already!"
         }
-      ]
+      ],
+      "AIparagraph": "It sounds like you created a gentle rhythm today—one that balanced quiet work and small joys. Your calmness and mindfulness after yoga seem to have set a peaceful tone. Even when motivation dipped, you allowed yourself space and self-kindness, which is a wonderful sign of emotional awareness. As you move through the week, consider what other little rituals bring you that same sense of contentment."
     },
     {
       "id": 102,
@@ -77,7 +78,8 @@
           "note": "For staying focused despite distractions."
         },
         { "diary_promptsId": 8, "note": "Need to stretch more during the day." }
-      ]
+      ],
+      "AIparagraph": "You managed a demanding day with both drive and determination. Even under pressure, you found motivation and followed through with care. The tension in your body mirrors how deeply you invest yourself in your work—perhaps a gentle reminder to pause and stretch. Taking short, mindful breaks could help your focus feel lighter and more sustainable."
     },
     {
       "id": 103,
@@ -104,7 +106,8 @@
           "note": "For not giving up when things got hard."
         },
         { "diary_promptsId": 8, "note": "Small wins make big differences." }
-      ]
+      ],
+      "AIparagraph": "Your entry reflects a strong sense of momentum and renewal. It’s wonderful to see how physical movement and sunshine influenced your energy and mindset. Achievements, even small ones, can reawaken confidence and joy. Keep noticing how your body and emotions respond to movement—it’s a powerful connection to nurture."
     },
     {
       "id": 104,
@@ -125,7 +128,8 @@
         { "diary_promptsId": 6, "note": "Refreshed and grounded afterward." },
         { "diary_promptsId": 7, "note": "For choosing calm over frustration." },
         { "diary_promptsId": 8, "note": "Tomorrow will be better." }
-      ]
+      ],
+      "AIparagraph": "You gave yourself space to reset after a challenging start to the day, and that’s powerful emotional work. It’s easy to get caught in difficult interactions or sleepless nights, but your walk shows a deep instinct for self-care. The decision to seek calm and believe that tomorrow can be brighter is a quiet form of resilience worth honoring."
     },
     {
       "id": 105,
@@ -152,7 +156,8 @@
           "diary_promptsId": 8,
           "note": "Might start a weekend art project soon."
         }
-      ]
+      ],
+      "AIparagraph": "Your reflections glow with curiosity and openness. It seems like your mind and body are both moving in harmony—stretching, creating, and sharing ideas. These creative moments can fuel confidence and emotional balance. Keep following that spark; it’s guiding you toward things that nourish your spirit."
     },
     {
       "id": 106,
@@ -176,7 +181,8 @@
           "note": "For dedicating time to personal growth."
         },
         { "diary_promptsId": 8, "note": "Learning truly never ends." }
-      ]
+      ],
+      "AIparagraph": "This entry reflects a grounded sense of purpose. You’re showing patience with your learning process and compassion toward your limits, which is a wonderful combination. Feeling both sore and proud suggests you’re finding balance between effort and rest. Keep nurturing that reflective mindset—it’s helping you grow steadily."
     },
     {
       "id": 201,
@@ -191,7 +197,8 @@
         { "diary_promptsId": 6, "note": "Content and recharged." },
         { "diary_promptsId": 7, "note": "For keeping a positive mindset." },
         { "diary_promptsId": 8, "note": "Should schedule a massage soon." }
-      ]
+      ],
+      "AIparagraph": "You maintained a pleasant balance between work and connection today. Even though your body showed signs of tension, your mood stayed light and sociable. It’s lovely that you found energy in simple human moments, like sharing a meal. Taking that next step to care for your body will only deepen your sense of ease."
     },
     {
       "id": 202,
@@ -209,7 +216,8 @@
         { "diary_promptsId": 6, "note": "Calm and soothed." },
         { "diary_promptsId": 7, "note": "For not losing patience." },
         { "diary_promptsId": 8, "note": "Maybe go to bed earlier tonight." }
-      ]
+      ],
+      "AIparagraph": "Your awareness of your energy and limits shines through here. Even with frustration and fatigue, you recognized what helped you reset—music and self-patience. That kind of gentle attention to your own needs helps your emotional balance recover quickly. Resting well tonight could complete that process beautifully."
     },
     {
       "id": 203,
@@ -227,7 +235,8 @@
           "diary_promptsId": 8,
           "note": "Might celebrate with a movie tonight."
         }
-      ]
+      ],
+      "AIparagraph": "This was a day full of movement and mental clarity. You leaned into your excitement and allowed your focus to carry you through big tasks. It’s natural that your mind buzzed with ideas—that’s the creative energy that often follows accomplishment. Taking time to celebrate is a beautiful way to honor your progress."
     },
     {
       "id": 204,
@@ -245,7 +254,8 @@
         { "diary_promptsId": 6, "note": "Accomplished and lighthearted." },
         { "diary_promptsId": 7, "note": "For keeping up with chores." },
         { "diary_promptsId": 8, "note": "Simplicity feels good." }
-      ]
+      ],
+      "AIparagraph": "Your day reflects quiet satisfaction and steadiness. Even small setbacks didn’t stop you from finding order and calm. These grounded, simple routines often provide a deep sense of control and peace. Keep recognizing how these little acts of care build a more peaceful environment around you."
     },
     {
       "id": 205,
@@ -266,7 +276,8 @@
         { "diary_promptsId": 6, "note": "Joyful and nostalgic." },
         { "diary_promptsId": 7, "note": "For making time for connection." },
         { "diary_promptsId": 8, "note": "Relationships keep me grounded." }
-      ]
+      ],
+      "AIparagraph": "This entry carries a warm, steady gratitude. It’s lovely to see how physical activity and emotional connection worked together to lift your spirit. That nostalgic joy from reconnecting is powerful—it reminds you that you’re supported and valued. Keeping space for these simple joys can anchor you in balance."
     },
     {
       "id": 206,
@@ -284,7 +295,8 @@
           "note": "For being consistent with my habits."
         },
         { "diary_promptsId": 8, "note": "Nature really resets my mind." }
-      ]
+      ],
+      "AIparagraph": "You seem to be in tune with both your body and mind today. The balance between movement, meditation, and time in nature created harmony in your reflections. Even with small work challenges, you maintained perspective. These moments of peaceful strength are a sign of lasting emotional balance."
     }
   ],
   "diary-prompts": [
