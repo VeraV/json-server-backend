@@ -5,14 +5,20 @@
       "name": "Claire",
       "email": "123@gmail.com",
       "isAdmin": false,
-      "daysIds": [101]
+      "daysIds": [
+        101
+      ]
     },
     {
       "id": 2,
       "name": "Vera",
       "email": "453@gmail.com",
       "isAdmin": false,
-      "daysIds": [201, 202, 203]
+      "daysIds": [
+        201,
+        202,
+        203
+      ]
     },
     {
       "id": 3,
@@ -33,6 +39,48 @@
       "isAdmin": false,
       "daysIds": [],
       "id": 5
+    },
+    {
+      "name": "Sam luft",
+      "email": "sam@gmaill.com",
+      "isAdmin": false,
+      "daysIds": [],
+      "id": 6
+    },
+    {
+      "name": "Claire",
+      "email": "123@gmail.com",
+      "isAdmin": false,
+      "daysIds": [],
+      "id": 7
+    },
+    {
+      "name": "Claire",
+      "email": "123@gmail.com",
+      "isAdmin": false,
+      "daysIds": [],
+      "id": 8
+    },
+    {
+      "name": "Claire",
+      "email": "123@gmail.com",
+      "isAdmin": false,
+      "daysIds": [],
+      "id": 9
+    },
+    {
+      "name": "Kuku",
+      "email": "123@gmail.com",
+      "isAdmin": false,
+      "daysIds": [],
+      "id": 10
+    },
+    {
+      "name": "Claire",
+      "email": "123@gmail.com",
+      "isAdmin": false,
+      "daysIds": [],
+      "id": 11
     }
   ],
   "days": [
@@ -152,6 +200,983 @@
           "note": "today was a great day! love it"
         }
       ]
+    },
+    {
+      "date": "6-10-2025",
+      "UserId": "1",
+      "notes": [
+        {
+          "diary_promptsId": 1,
+          "note": "good and tired"
+        },
+        {
+          "diary_promptsId": 2,
+          "note": "tired as hell"
+        },
+        {
+          "diary_promptsId": 3,
+          "note": "work and sleep"
+        },
+        {
+          "diary_promptsId": 4,
+          "note": "woke up at 2 am from nightmare"
+        },
+        {
+          "diary_promptsId": 5,
+          "note": "Lili came back home and I solved the issue"
+        },
+        {
+          "diary_promptsId": 6,
+          "note": "happy and love and pround"
+        },
+        {
+          "diary_promptsId": 7,
+          "note": "thank you for being so kind to your body"
+        },
+        {
+          "diary_promptsId": 8,
+          "note": "God loves me"
+        }
+      ],
+      "id": 203
+    },
+    {
+      "date": "6-10-2025",
+      "UserId": "1",
+      "notes": [
+        {
+          "diary_promptsId": 1,
+          "note": "awesome"
+        },
+        {
+          "diary_promptsId": 2,
+          "note": "awesome"
+        },
+        {
+          "diary_promptsId": 3,
+          "note": "testing testing "
+        },
+        {
+          "diary_promptsId": 4,
+          "note": "testing"
+        },
+        {
+          "diary_promptsId": 5,
+          "note": "testing"
+        },
+        {
+          "diary_promptsId": 6,
+          "note": "testing"
+        },
+        {
+          "diary_promptsId": 7,
+          "note": "testing"
+        },
+        {
+          "diary_promptsId": 8,
+          "note": "hahahah"
+        }
+      ],
+      "id": 204
+    },
+    {
+      "date": "6-10-2025",
+      "UserId": "1",
+      "notes": [
+        {
+          "diary_promptsId": 1,
+          "note": "test"
+        },
+        {
+          "diary_promptsId": 2,
+          "note": "test"
+        },
+        {
+          "diary_promptsId": 3,
+          "note": "test"
+        },
+        {
+          "diary_promptsId": 4,
+          "note": "test"
+        },
+        {
+          "diary_promptsId": 5,
+          "note": "test"
+        },
+        {
+          "diary_promptsId": 6,
+          "note": "test"
+        },
+        {
+          "diary_promptsId": 7,
+          "note": "test"
+        },
+        {
+          "diary_promptsId": 8,
+          "note": "test"
+        }
+      ],
+      "id": 205
+    },
+    {
+      "date": "7-10-2025",
+      "userId": 2,
+      "notes": [
+        {
+          "diary_promptsId": 1,
+          "note": "ahaha"
+        },
+        {
+          "diary_promptsId": 2,
+          "note": "hahaha"
+        },
+        {
+          "diary_promptsId": 3,
+          "note": "hahaha"
+        },
+        {
+          "diary_promptsId": 4,
+          "note": "hahaha"
+        },
+        {
+          "diary_promptsId": 5,
+          "note": "hahaha"
+        },
+        {
+          "diary_promptsId": 6,
+          "note": "hahaha"
+        },
+        {
+          "diary_promptsId": 7,
+          "note": "hahaha"
+        },
+        {
+          "diary_promptsId": 8,
+          "note": "hahaha"
+        }
+      ],
+      "id": 206
+    },
+    {
+      "date": "7-10-2025",
+      "userId": 2,
+      "notes": [
+        {
+          "diary_promptsId": 1,
+          "note": "testing "
+        },
+        {
+          "diary_promptsId": 2,
+          "note": "testing "
+        },
+        {
+          "diary_promptsId": 3,
+          "note": "testing "
+        },
+        {
+          "diary_promptsId": 4,
+          "note": "testing "
+        },
+        {
+          "diary_promptsId": 5,
+          "note": "testing "
+        },
+        {
+          "diary_promptsId": 6,
+          "note": "testing "
+        },
+        {
+          "diary_promptsId": 7,
+          "note": "testing "
+        },
+        {
+          "diary_promptsId": 8,
+          "note": "testing "
+        }
+      ],
+      "id": 207
+    },
+    {
+      "date": "7-10-2025",
+      "userId": 1,
+      "notes": [
+        {
+          "diary_promptsId": 1,
+          "note": "Good"
+        },
+        {
+          "diary_promptsId": 2,
+          "note": "I want to go for a run"
+        },
+        {
+          "diary_promptsId": 3,
+          "note": "sitting and coding for hours and I think "
+        },
+        {
+          "diary_promptsId": 4,
+          "note": "so far so good, I think it is a grey weather outside"
+        },
+        {
+          "diary_promptsId": 5,
+          "note": "see  my daughter and test ai the first time"
+        },
+        {
+          "diary_promptsId": 6,
+          "note": "happy and satisfied"
+        },
+        {
+          "diary_promptsId": 7,
+          "note": "I thank myself for showing up and be there and full of courage"
+        },
+        {
+          "diary_promptsId": 8,
+          "note": "I also did the admin stuff I did not want to do so i am proud"
+        }
+      ],
+      "id": 208
+    },
+    {
+      "date": "7-10-2025",
+      "userId": 1,
+      "notes": [
+        {
+          "diary_promptsId": 1,
+          "note": "Good and tired and little anxiety"
+        },
+        {
+          "diary_promptsId": 2,
+          "note": "I want to go for a run"
+        },
+        {
+          "diary_promptsId": 3,
+          "note": "sitting and coding for hours and I think"
+        },
+        {
+          "diary_promptsId": 4,
+          "note": "so far so good, I think it is a grey weather outside"
+        },
+        {
+          "diary_promptsId": 5,
+          "note": "see  my daughter and test ai the first time\""
+        },
+        {
+          "diary_promptsId": 6,
+          "note": "happy and satisfied"
+        },
+        {
+          "diary_promptsId": 7,
+          "note": "I thank myself for showing up and be there and full of courage\""
+        },
+        {
+          "diary_promptsId": 8,
+          "note": "I also did the admin stuff I did not want to do so i am proud"
+        }
+      ],
+      "id": 209
+    },
+    {
+      "date": "7-10-2025",
+      "userId": 1,
+      "notes": [
+        {
+          "diary_promptsId": 1,
+          "note": "good and tired"
+        },
+        {
+          "diary_promptsId": 2,
+          "note": "tired as hell"
+        },
+        {
+          "diary_promptsId": 3,
+          "note": "work and sleep"
+        },
+        {
+          "diary_promptsId": 4,
+          "note": "woke up at 2 am from nightmare"
+        },
+        {
+          "diary_promptsId": 5,
+          "note": "Lili came back home and I solved the issue"
+        },
+        {
+          "diary_promptsId": 6,
+          "note": "happy and love and pround"
+        },
+        {
+          "diary_promptsId": 7,
+          "note": "thank you for being so kind to your body"
+        },
+        {
+          "diary_promptsId": 8,
+          "note": "life is good"
+        }
+      ],
+      "id": 210
+    },
+    {
+      "date": "7-10-2025",
+      "userId": 1,
+      "notes": [
+        {
+          "diary_promptsId": 1,
+          "note": "good and tired"
+        },
+        {
+          "diary_promptsId": 2,
+          "note": "tired as hell"
+        },
+        {
+          "diary_promptsId": 3,
+          "note": "woke up at 2 am from nightmare"
+        },
+        {
+          "diary_promptsId": 4,
+          "note": "Lili came back home and I solved the issue"
+        },
+        {
+          "diary_promptsId": 5,
+          "note": "happy and love and pround"
+        },
+        {
+          "diary_promptsId": 6,
+          "note": "thank you for being so kind to your body"
+        },
+        {
+          "diary_promptsId": 7,
+          "note": "thank you for being so kind to your body"
+        },
+        {
+          "diary_promptsId": 8,
+          "note": "God loves me"
+        }
+      ],
+      "id": 211
+    },
+    {
+      "date": "7-10-2025",
+      "userId": 2,
+      "notes": [
+        {
+          "diary_promptsId": 1,
+          "note": "Good and tired and little anxiety"
+        },
+        {
+          "diary_promptsId": 2,
+          "note": "I want to go for a run"
+        },
+        {
+          "diary_promptsId": 3,
+          "note": "sitting and coding for hours and I think"
+        },
+        {
+          "diary_promptsId": 4,
+          "note": "so far so good, I think it is a grey weather outside"
+        },
+        {
+          "diary_promptsId": 5,
+          "note": "see  my daughter and test ai the first time"
+        },
+        {
+          "diary_promptsId": 6,
+          "note": "happy and satisfied"
+        },
+        {
+          "diary_promptsId": 7,
+          "note": "I thank myself for showing up and be there and full of courage"
+        },
+        {
+          "diary_promptsId": 8,
+          "note": "I also did the admin stuff I did not want to do so i am proud"
+        }
+      ],
+      "id": 212
+    },
+    {
+      "date": "7-10-2025",
+      "userId": 2,
+      "notes": [
+        {
+          "diary_promptsId": 1,
+          "note": "Good and tired and little anxiety"
+        },
+        {
+          "diary_promptsId": 2,
+          "note": "I want to go for a run"
+        },
+        {
+          "diary_promptsId": 3,
+          "note": "sitting and coding for hours and I think"
+        },
+        {
+          "diary_promptsId": 4,
+          "note": "so far so good, I think it is a grey weather outside"
+        },
+        {
+          "diary_promptsId": 5,
+          "note": "see  my daughter and test ai the first time"
+        },
+        {
+          "diary_promptsId": 6,
+          "note": "happy and satisfied"
+        },
+        {
+          "diary_promptsId": 7,
+          "note": "I thank myself for showing up and be there and full of courage"
+        },
+        {
+          "diary_promptsId": 8,
+          "note": "I also did the admin stuff I did not want to do so i am proud"
+        }
+      ],
+      "id": 213
+    },
+    {
+      "date": "7-10-2025",
+      "userId": 2,
+      "notes": [
+        {
+          "diary_promptsId": 1,
+          "note": "Good and tired and little anxiety"
+        },
+        {
+          "diary_promptsId": 2,
+          "note": "I want to go for a run"
+        },
+        {
+          "diary_promptsId": 3,
+          "note": "sitting and coding for hours and I think"
+        },
+        {
+          "diary_promptsId": 4,
+          "note": "so far so good, I think it is a grey weather outside"
+        },
+        {
+          "diary_promptsId": 5,
+          "note": "see  my daughter and test ai the first time"
+        },
+        {
+          "diary_promptsId": 6,
+          "note": "happy and satisfied"
+        },
+        {
+          "diary_promptsId": 7,
+          "note": "I thank myself for showing up and be there and full of courage"
+        },
+        {
+          "diary_promptsId": 8,
+          "note": "I also did the admin stuff I did not want to do so i am proud"
+        }
+      ],
+      "id": 214
+    },
+    {
+      "date": "7-10-2025",
+      "userId": 2,
+      "notes": [
+        {
+          "diary_promptsId": 1,
+          "note": "Good and tired and little anxiety"
+        },
+        {
+          "diary_promptsId": 2,
+          "note": "I want to go for a run"
+        },
+        {
+          "diary_promptsId": 3,
+          "note": "sitting and coding for hours and I think"
+        },
+        {
+          "diary_promptsId": 4,
+          "note": "so far so good, I think it is a grey weather outside"
+        },
+        {
+          "diary_promptsId": 5,
+          "note": "see  my daughter and test ai the first time"
+        },
+        {
+          "diary_promptsId": 6,
+          "note": "happy and satisfied"
+        },
+        {
+          "diary_promptsId": 7,
+          "note": "I thank myself for showing up and be there and full of courage"
+        },
+        {
+          "diary_promptsId": 8,
+          "note": "I also did the admin stuff I did not want to do so i am proud"
+        }
+      ],
+      "id": 215
+    },
+    {
+      "date": "7-10-2025",
+      "userId": 2,
+      "notes": [
+        {
+          "diary_promptsId": 1,
+          "note": "Good and tired and little anxiety"
+        },
+        {
+          "diary_promptsId": 2,
+          "note": "I want to go for a run"
+        },
+        {
+          "diary_promptsId": 3,
+          "note": "sitting and coding for hours and I think"
+        },
+        {
+          "diary_promptsId": 4,
+          "note": "so far so good, I think it is a grey weather outside"
+        },
+        {
+          "diary_promptsId": 5,
+          "note": "see  my daughter and test ai the first time"
+        },
+        {
+          "diary_promptsId": 6,
+          "note": "happy and satisfied"
+        },
+        {
+          "diary_promptsId": 7,
+          "note": "I thank myself for showing up and be there and full of courage"
+        },
+        {
+          "diary_promptsId": 8,
+          "note": "I also did the admin stuff I did not want to do so i am proud"
+        }
+      ],
+      "id": 216
+    },
+    {
+      "date": "7-10-2025",
+      "userId": 2,
+      "notes": [
+        {
+          "diary_promptsId": 1,
+          "note": "Good and tired and little anxiety"
+        },
+        {
+          "diary_promptsId": 2,
+          "note": "I want to go for a run"
+        },
+        {
+          "diary_promptsId": 3,
+          "note": "sitting and coding for hours and I think"
+        },
+        {
+          "diary_promptsId": 4,
+          "note": "so far so good, I think it is a grey weather outside"
+        },
+        {
+          "diary_promptsId": 5,
+          "note": "see  my daughter and test ai the first time"
+        },
+        {
+          "diary_promptsId": 6,
+          "note": "happy and satisfied"
+        },
+        {
+          "diary_promptsId": 7,
+          "note": "I thank myself for showing up and be there and full of courage"
+        },
+        {
+          "diary_promptsId": 8,
+          "note": "I also did the admin stuff I did not want to do so i am proud"
+        }
+      ],
+      "id": 217
+    },
+    {
+      "date": "7-10-2025",
+      "userId": 1,
+      "notes": [
+        {
+          "diary_promptsId": 1,
+          "note": "I feel quite happy and tired"
+        },
+        {
+          "diary_promptsId": 2,
+          "note": "my body needs some sport I think  i will go for a run tomorrow"
+        },
+        {
+          "diary_promptsId": 3,
+          "note": "I think I did not go to run and I sit for a long time"
+        },
+        {
+          "diary_promptsId": 4,
+          "note": "it took me so long to figure the project send data to AI part"
+        },
+        {
+          "diary_promptsId": 5,
+          "note": "I think playing piano"
+        },
+        {
+          "diary_promptsId": 6,
+          "note": "clam and collective"
+        },
+        {
+          "diary_promptsId": 7,
+          "note": "I thank me for finishing the adminitrative work that stressed me out "
+        },
+        {
+          "diary_promptsId": 8,
+          "note": "I can choose peace, happiness and hope"
+        }
+      ],
+      "id": 218
+    },
+    {
+      "date": "7-10-2025",
+      "userId": 1,
+      "notes": [
+        {
+          "diary_promptsId": 1,
+          "note": "anxious and a little restless tired"
+        },
+        {
+          "diary_promptsId": 2,
+          "note": "tired and need to do some sport"
+        },
+        {
+          "diary_promptsId": 3,
+          "note": "i think I did not exercise and it tookso long for me to solve the AI issue"
+        },
+        {
+          "diary_promptsId": 4,
+          "note": "i think it must be adding AI component in the app"
+        },
+        {
+          "diary_promptsId": 5,
+          "note": "i think playing piano"
+        },
+        {
+          "diary_promptsId": 6,
+          "note": "calm and collective"
+        },
+        {
+          "diary_promptsId": 7,
+          "note": "for finishing the task and finish the admin stuff and also for perserve"
+        },
+        {
+          "diary_promptsId": 8,
+          "note": "I can choose hope, peace and light"
+        }
+      ],
+      "id": 219
+    },
+    {
+      "date": "7-10-2025",
+      "userId": 1,
+      "notes": [
+        {
+          "diary_promptsId": 1,
+          "note": "anxious and a little restless tired"
+        },
+        {
+          "diary_promptsId": 2,
+          "note": "tired and need to do some sport"
+        },
+        {
+          "diary_promptsId": 3,
+          "note": "i think I did not exercise and it tookso long for me to solve the AI issue"
+        },
+        {
+          "diary_promptsId": 4,
+          "note": "i think it must be adding AI component in the app"
+        },
+        {
+          "diary_promptsId": 5,
+          "note": "i think playing piano"
+        },
+        {
+          "diary_promptsId": 6,
+          "note": "calm and collective"
+        },
+        {
+          "diary_promptsId": 7,
+          "note": "for finishing the task and finish the admin stuff and also for perserve"
+        },
+        {
+          "diary_promptsId": 8,
+          "note": "I can choose hope, peace and light"
+        }
+      ],
+      "id": 220
+    },
+    {
+      "date": "7-10-2025",
+      "userId": 1,
+      "notes": [
+        {
+          "diary_promptsId": 1,
+          "note": "pretty awesome"
+        },
+        {
+          "diary_promptsId": 2,
+          "note": "tired"
+        },
+        {
+          "diary_promptsId": 3,
+          "note": "solve a hard task today"
+        },
+        {
+          "diary_promptsId": 4,
+          "note": "did the admin tasks that stresses "
+        },
+        {
+          "diary_promptsId": 5,
+          "note": "seeing the AI feature i build worked"
+        },
+        {
+          "diary_promptsId": 6,
+          "note": "pround and happy"
+        },
+        {
+          "diary_promptsId": 7,
+          "note": "thank you for being here showing up"
+        },
+        {
+          "diary_promptsId": 8,
+          "note": "God loves me"
+        }
+      ],
+      "id": 221
+    },
+    {
+      "date": "7-10-2025",
+      "userId": 1,
+      "notes": [
+        {
+          "diary_promptsId": 1,
+          "note": "pretty awesome"
+        },
+        {
+          "diary_promptsId": 2,
+          "note": "tired"
+        },
+        {
+          "diary_promptsId": 3,
+          "note": "solve a hard task today"
+        },
+        {
+          "diary_promptsId": 4,
+          "note": "did the admin tasks that stresses "
+        },
+        {
+          "diary_promptsId": 5,
+          "note": "seeing the AI feature i build worked"
+        },
+        {
+          "diary_promptsId": 6,
+          "note": "pround and happy"
+        },
+        {
+          "diary_promptsId": 7,
+          "note": "thank you for being here showing up"
+        },
+        {
+          "diary_promptsId": 8,
+          "note": "God loves me"
+        }
+      ],
+      "id": 222
+    },
+    {
+      "date": "7-10-2025",
+      "userId": 1,
+      "notes": [
+        {
+          "diary_promptsId": 1,
+          "note": "good and tired"
+        },
+        {
+          "diary_promptsId": 2,
+          "note": "tired as hell"
+        },
+        {
+          "diary_promptsId": 3,
+          "note": "work and sleep"
+        },
+        {
+          "diary_promptsId": 4,
+          "note": "woke up at 2 am from nightmare"
+        },
+        {
+          "diary_promptsId": 5,
+          "note": "Lili came back home and I solved the issue"
+        },
+        {
+          "diary_promptsId": 6,
+          "note": "happy and love and pround"
+        },
+        {
+          "diary_promptsId": 7,
+          "note": "thank you for being so kind to your body"
+        },
+        {
+          "diary_promptsId": 8,
+          "note": "God loves me"
+        }
+      ],
+      "id": 223
+    },
+    {
+      "date": "7-10-2025",
+      "userId": 1,
+      "notes": [
+        {
+          "diary_promptsId": 1,
+          "note": "good and tired"
+        },
+        {
+          "diary_promptsId": 2,
+          "note": "tired as hell"
+        },
+        {
+          "diary_promptsId": 3,
+          "note": "work and sleep"
+        },
+        {
+          "diary_promptsId": 4,
+          "note": "woke up at 2 am from nightmare"
+        },
+        {
+          "diary_promptsId": 5,
+          "note": "Lili came back home and I solved the issue"
+        },
+        {
+          "diary_promptsId": 6,
+          "note": "happy and love and pround"
+        },
+        {
+          "diary_promptsId": 7,
+          "note": "thank you for being so kind to your body"
+        },
+        {
+          "diary_promptsId": 8,
+          "note": "God loves me"
+        }
+      ],
+      "id": 224
+    },
+    {
+      "date": "8-10-2025",
+      "userId": 1,
+      "notes": [
+        {
+          "diary_promptsId": 1,
+          "note": "Pretty good"
+        },
+        {
+          "diary_promptsId": 2,
+          "note": "I feel stressed"
+        },
+        {
+          "diary_promptsId": 3,
+          "note": "I think I am a bit worried my flight to China on friday about my project presentaiton and about if there will be delay. I will have to stop at 2 countries"
+        },
+        {
+          "diary_promptsId": 4,
+          "note": "knowing my grandmother is dying"
+        },
+        {
+          "diary_promptsId": 5,
+          "note": "book the ticket to go back"
+        },
+        {
+          "diary_promptsId": 6,
+          "note": "calm and knowing I have done the right thing"
+        },
+        {
+          "diary_promptsId": 7,
+          "note": "thank for choosing what your heart tells you and take on the joureny to see my dying grandma one last time"
+        },
+        {
+          "diary_promptsId": 8,
+          "note": "Life is a gift"
+        }
+      ],
+      "AIparagraph": "My dear friend, thank you for sharing such an honest and heartfelt reflection today. I'm truly here to listen and support you.\n\nIt sounds like you're holding a lot right now – starting off feeling \"pretty good,\" but then a deep sense of stress is clearly present in your body. It's completely understandable that worries about your upcoming flight to China, the project presentation, and the potential for delays on a multi-country journey would weigh heavily on you. That's a lot of logistical pressure to navigate, and it's natural for your body to feel that tension.\n\nAnd then, amidst all of that, you've shared something incredibly difficult: the news about your grandmother. My heart goes out to you deeply. This is truly heartbreaking, and it's a profound sorrow to carry. Please know that it's okay, and expected, to feel the weight of this news.\n\nIt takes immense courage to face such news, and finding the best moment of your day in booking that ticket to be with her speaks volumes about your love and priorities. Feeling \"calm and knowing I have done the right thing\" in that moment is a powerful testament to following your heart, especially when it's guiding you through such a challenging time. What an incredibly brave and loving choice to undertake that journey to see your grandma one last time. You absolutely deserve to thank yourself for listening to that inner compass.\n\nAnd what a beautiful and profound thought to end with: \"Life is a gift.\" It's a reminder that truly resonates, especially when we're navigating both its joys and its deepest sorrows.\n\nAs you prepare for this significant journey, both physically and emotionally, remember to be gentle with yourself. You're making a deeply meaningful journey, and it's okay to feel all the emotions that come with it.\n\n**Here's a little reflection prompt for you:**\nConsidering your profound thought that \"Life is a gift,\" how might you honor that gift, even in the midst of sorrow and travel, in the coming days?",
+      "id": 225
+    },
+    {
+      "date": "8-10-2025",
+      "userId": 1,
+      "notes": [
+        {
+          "diary_promptsId": 1,
+          "note": "Pretty good"
+        },
+        {
+          "diary_promptsId": 2,
+          "note": "I feel stressed"
+        },
+        {
+          "diary_promptsId": 3,
+          "note": "I think I am a bit worried my flight to China on friday about my project presentaiton and about if there will be delay. I will have to stop at 2 countries"
+        },
+        {
+          "diary_promptsId": 4,
+          "note": "knowing my grandmother is dying"
+        },
+        {
+          "diary_promptsId": 5,
+          "note": "book the ticket to go back"
+        },
+        {
+          "diary_promptsId": 6,
+          "note": "calm and knowing I have done the right thing"
+        },
+        {
+          "diary_promptsId": 7,
+          "note": "thank for choosing what your heart tells you and take on the joureny to see my dying grandma one last time"
+        },
+        {
+          "diary_promptsId": 8,
+          "note": "Life is a gift"
+        }
+      ],
+      "AIparagraph": "Thank you for sharing your thoughts and feelings today. It takes courage to reflect, especially when you're navigating such a complex mix of emotions and significant life events.\n\nIt sounds like you're holding a lot right now – feeling 'pretty good' generally, yet also experiencing stress in your body. It's completely understandable that worries about your upcoming flight to China, the stops, and your project presentation are contributing to that stress. Those are big logistics and pressures to carry!\n\nAnd amidst all of that, my heart goes out to you for the incredibly tough news about your grandmother. Knowing she is dying must be an immense weight on your spirit, and it's okay to feel whatever grief, sadness, or a multitude of emotions come with that.\n\nWhat truly shines through, though, is the incredible love and clarity in your decision. Booking that ticket to go back to her, and feeling 'calm and knowing I have done the right thing,' speaks volumes about your beautiful heart. It's wonderful that you can thank yourself for choosing what your heart tells you and taking on this journey to see her one last time. That's a profound act of love and self-compassion.\n\nAs you prepare for this challenging yet meaningful journey, remember to be extra gentle with yourself. Perhaps visualize a smooth flight or take a few mindful breaths whenever you feel that stress creeping in. Holding onto the truth that 'Life is a gift,' even in moments of sorrow and difficulty, is a powerful perspective.\n\n**A reflection prompt for you:** As you embark on this important journey, what's one small way you can honor both the joy and the sorrow you're feeling each day?",
+      "id": 226
+    },
+    {
+      "date": "9-10-2025",
+      "userId": 1,
+      "notes": [
+        {
+          "diary_promptsId": 1,
+          "note": "good \n"
+        },
+        {
+          "diary_promptsId": 2,
+          "note": "I wanna sleep"
+        },
+        {
+          "diary_promptsId": 3,
+          "note": "I still working now which is stupid"
+        },
+        {
+          "diary_promptsId": 4,
+          "note": "I think i am still awake"
+        },
+        {
+          "diary_promptsId": 5,
+          "note": "hanging with my daughter\n"
+        },
+        {
+          "diary_promptsId": 6,
+          "note": "loved peace"
+        },
+        {
+          "diary_promptsId": 7,
+          "note": "showing up "
+        },
+        {
+          "diary_promptsId": 8,
+          "note": "i love mycat"
+        }
+      ],
+      "id": 227
     }
   ],
   "diary-prompts": [
